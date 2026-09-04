@@ -7,7 +7,7 @@ about:
   head: f956424
   archived: false
   latestVersion: v0.10.0
-  collectedAt: 2026-09-04T19:58:55Z
+  collectedAt: 2026-09-04T20:40:19Z
 timeline:
   created: 2019-09-22
   lastCommit: 2026-06-02
@@ -89,5 +89,53 @@ total:
   openIssue: 356
   commit: 37498
 ---
+path: /home/runner/.x-repo/github.com/arturo-lang/arturo
+collectedAt: 2026-09-04T20:40:26Z
+loc:
+  Nim:
+    code: 35588
+    comments: 5721
+    blanks: 5967
+    files: 111
+  ReScript:
+    code: 4754
+    comments: 0
+    blanks: 1236
+    files: 67
+  Sh:
+    code: 211
+    comments: 27
+    blanks: 57
+    files: 7
+  JavaScript:
+    code: 81
+    comments: 33
+    blanks: 14
+    files: 2
+  Html:
+    code: 35
+    comments: 0
+    blanks: 0
+    files: 1
+  ModuleDef:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 501
+    blanks: 214
+    files: 6
+  Text:
+    code: 0
+    comments: 6
+    blanks: 0
+    files: 6
+total:
+  code: 40699
+  comments: 6289
+  blanks: 7488
+  files: 201
 ---
 
