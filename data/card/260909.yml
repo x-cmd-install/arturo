@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.10.0"
   latestRelease: "v0.10.0"
   latestPrerelease: "v0.9.82-pre2"
-  collectedAt: 2026-09-09T06:08:31Z
+  collectedAt: 2026-09-09T20:29:49Z
 timeline:
   created: 2019-09-22
   lastCommit: 2026-06-02
@@ -92,7 +92,7 @@ total:
   commit: 37498
 ---
 path: /home/runner/.x-repo/github.com/arturo-lang/arturo
-collectedAt: 2026-09-09T06:08:41Z
+collectedAt: 2026-09-09T20:30:07Z
 loc:
   Nim:
     code: 35588
