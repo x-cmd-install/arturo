@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4689797,
       "digest": "sha256:9193b971a2ceceb06ad7aa36822c64989859d9bea4414f409a20d0333cc14dd5",
-      "download_count": 150,
+      "download_count": 152,
       "created_at": "2026-01-15T07:51:25Z",
       "updated_at": "2026-01-15T07:51:26Z",
       "browser_download_url": "https://github.com/arturo-lang/arturo/releases/download/v0.10.0/arturo-0.10.0-linux-amd64-legacy.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1999188,
       "digest": "sha256:2ff02a02ec4b26916b2a45c585e1bfbcfe14bb5e29e1ea317ccf7ca3ae539077",
-      "download_count": 190,
+      "download_count": 201,
       "created_at": "2026-01-15T07:51:25Z",
       "updated_at": "2026-01-15T07:51:25Z",
       "browser_download_url": "https://github.com/arturo-lang/arturo/releases/download/v0.10.0/arturo-0.10.0-linux-amd64-mini.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4820671,
       "digest": "sha256:764e484bf226ed14494b0e87601af4cd399da778d31ea059150bb07a621bb35d",
-      "download_count": 1077,
+      "download_count": 1083,
       "created_at": "2026-01-15T07:51:25Z",
       "updated_at": "2026-01-15T07:51:26Z",
       "browser_download_url": "https://github.com/arturo-lang/arturo/releases/download/v0.10.0/arturo-0.10.0-linux-amd64.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 10374466,
       "digest": "sha256:77b724d37fc70d3fb5d8d040b3c8ead103cf8323c1c32a650ccdba4465df6d86",
-      "download_count": 813,
+      "download_count": 822,
       "created_at": "2026-01-15T07:51:27Z",
       "updated_at": "2026-01-15T07:51:27Z",
       "browser_download_url": "https://github.com/arturo-lang/arturo/releases/download/v0.10.0/arturo-0.10.0-windows-amd64.zip"
