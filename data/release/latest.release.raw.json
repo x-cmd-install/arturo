@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1999188,
       "digest": "sha256:2ff02a02ec4b26916b2a45c585e1bfbcfe14bb5e29e1ea317ccf7ca3ae539077",
-      "download_count": 269,
+      "download_count": 272,
       "created_at": "2026-01-15T07:51:25Z",
       "updated_at": "2026-01-15T07:51:25Z",
       "browser_download_url": "https://github.com/arturo-lang/arturo/releases/download/v0.10.0/arturo-0.10.0-linux-amd64-mini.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4820671,
       "digest": "sha256:764e484bf226ed14494b0e87601af4cd399da778d31ea059150bb07a621bb35d",
-      "download_count": 1123,
+      "download_count": 1127,
       "created_at": "2026-01-15T07:51:25Z",
       "updated_at": "2026-01-15T07:51:26Z",
       "browser_download_url": "https://github.com/arturo-lang/arturo/releases/download/v0.10.0/arturo-0.10.0-linux-amd64.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 778906,
       "digest": "sha256:227433ef5e80faeddbcb9c4c24f39b482cf4dfd41c5f4b2cf1df62cab5be9f6b",
-      "download_count": 37,
+      "download_count": 38,
       "created_at": "2026-01-15T07:51:26Z",
       "updated_at": "2026-01-15T07:51:27Z",
       "browser_download_url": "https://github.com/arturo-lang/arturo/releases/download/v0.10.0/arturo-0.10.0-web-js-mini.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 2389562,
       "digest": "sha256:2ad38e4a9dbcab827401bed10f48520d769eca03fa206f9f7e4b315c89347174",
-      "download_count": 74,
+      "download_count": 75,
       "created_at": "2026-01-15T07:51:27Z",
       "updated_at": "2026-01-15T07:51:27Z",
       "browser_download_url": "https://github.com/arturo-lang/arturo/releases/download/v0.10.0/arturo-0.10.0-windows-amd64-mini.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 10374466,
       "digest": "sha256:77b724d37fc70d3fb5d8d040b3c8ead103cf8323c1c32a650ccdba4465df6d86",
-      "download_count": 875,
+      "download_count": 885,
       "created_at": "2026-01-15T07:51:27Z",
       "updated_at": "2026-01-15T07:51:27Z",
       "browser_download_url": "https://github.com/arturo-lang/arturo/releases/download/v0.10.0/arturo-0.10.0-windows-amd64.zip"
