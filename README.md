@@ -38,7 +38,7 @@ Total: **40,673** lines of code across **188** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 891 · **Forks**: 39 · **Open issues**: 1,433 · **Contributors**: 20
+- **Stars**: 891 · **Forks**: 40 · **Open issues**: 1,433 · **Contributors**: 20
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **40,673** lines of code across **188** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-20 | 0 | 2 | 0 | 0 | 0 | 4 |
-| 90d | 2026-07-21 | 0 | 2 | 0 | 0 | 1 | 4 |
-| last180d | 2026-04-22 | 0 | 18 | 1 | 1 | 2 | 458 |
-| 360d | 2025-10-24 | 1 | 110 | 5 | 62 | 51 | 2980 |
-| last720d | 2024-10-29 | 1 | 199 | 5 | 127 | 110 | 3328 |
+| 30d | 2026-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-21 | 0 | 2 | 0 | 0 | 0 | 4 |
+| 90d | 2026-07-22 | 0 | 2 | 0 | 0 | 1 | 4 |
+| last180d | 2026-04-23 | 0 | 18 | 1 | 1 | 2 | 458 |
+| 360d | 2025-10-25 | 1 | 110 | 5 | 62 | 51 | 2980 |
+| last720d | 2024-10-30 | 1 | 199 | 5 | 127 | 110 | 3328 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for arturo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:42:47Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:55:35Z._
