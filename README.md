@@ -14,12 +14,12 @@ x install arturo
 
 ## Code insight
 
-Total: **40,673** lines of code across **188** files in the top 5 languages.
+Total: **40,679** lines of code across **189** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Nim | 35,588 | 5,721 | 5,967 | 111 |
-| ReScript | 4,754 | 0 | 1,236 | 67 |
+| Nim | 35,591 | 5,722 | 5,969 | 111 |
+| ReScript | 4,757 | 0 | 1,236 | 68 |
 | Sh | 211 | 27 | 57 | 7 |
 | JavaScript | 81 | 33 | 14 | 2 |
 | Html | 35 | 0 | 0 | 1 |
@@ -33,7 +33,7 @@ Total: **40,673** lines of code across **188** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.0` (2026-01-15)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-10-21
 - **Assets in release**: 15
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **40,673** lines of code across **188** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 723 · **Open PRs**: 9 · **Closed issues**: 1077 · **Open issues**: 356 · **Commits**: 37504
+- **Releases**: 26 · **Merged PRs**: 724 · **Open PRs**: 9 · **Closed issues**: 1077 · **Open issues**: 356 · **Commits**: 37511
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-22 | 0 | 2 | 0 | 0 | 0 | 4 |
-| 90d | 2026-07-23 | 0 | 2 | 0 | 0 | 1 | 4 |
-| last180d | 2026-04-24 | 0 | 17 | 1 | 1 | 2 | 458 |
-| 360d | 2025-10-26 | 1 | 110 | 5 | 62 | 51 | 2980 |
-| last720d | 2024-10-31 | 1 | 199 | 5 | 127 | 110 | 3328 |
+| 30d | 2026-09-22 | 0 | 1 | 0 | 0 | 0 | 7 |
+| last60d | 2026-08-23 | 0 | 3 | 0 | 0 | 0 | 11 |
+| 90d | 2026-07-24 | 0 | 3 | 0 | 0 | 1 | 11 |
+| last180d | 2026-04-25 | 0 | 18 | 1 | 0 | 2 | 465 |
+| 360d | 2025-10-27 | 1 | 111 | 5 | 62 | 51 | 2987 |
+| last720d | 2024-11-01 | 1 | 199 | 5 | 127 | 110 | 3335 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for arturo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:57:52Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:52:32Z._
