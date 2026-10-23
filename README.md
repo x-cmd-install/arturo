@@ -33,7 +33,7 @@ Total: **40,679** lines of code across **189** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.0` (2026-01-15)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-22
 - **Assets in release**: 15
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **40,679** lines of code across **189** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 724 · **Open PRs**: 9 · **Closed issues**: 1077 · **Open issues**: 356 · **Commits**: 37511
+- **Releases**: 26 · **Merged PRs**: 726 · **Open PRs**: 9 · **Closed issues**: 1077 · **Open issues**: 356 · **Commits**: 37520
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 1 | 0 | 0 | 0 | 7 |
-| last60d | 2026-08-23 | 0 | 3 | 0 | 0 | 0 | 11 |
-| 90d | 2026-07-24 | 0 | 3 | 0 | 0 | 1 | 11 |
-| last180d | 2026-04-25 | 0 | 18 | 1 | 0 | 2 | 465 |
-| 360d | 2025-10-27 | 1 | 111 | 5 | 62 | 51 | 2987 |
-| last720d | 2024-11-01 | 1 | 199 | 5 | 127 | 110 | 3335 |
+| 30d | 2026-09-23 | 0 | 3 | 0 | 0 | 0 | 16 |
+| last60d | 2026-08-24 | 0 | 5 | 0 | 0 | 0 | 20 |
+| 90d | 2026-07-25 | 0 | 5 | 0 | 0 | 1 | 20 |
+| last180d | 2026-04-26 | 0 | 20 | 1 | 0 | 2 | 474 |
+| 360d | 2025-10-28 | 1 | 112 | 5 | 62 | 51 | 2996 |
+| last720d | 2024-11-02 | 1 | 201 | 5 | 127 | 110 | 3342 |
 
 ## Release assets
 
@@ -75,6 +75,15 @@ Total: **40,679** lines of code across **189** files in the top 5 languages.
 | [arturo-0.10.0-windows-amd64-mini.zip](https://github.com/arturo-lang/arturo/releases/download/v0.10.0/arturo-0.10.0-windows-amd64-mini.zip) | 2.3 MiB | `native/win/x64` |
 | [arturo-0.10.0-windows-amd64.zip](https://github.com/arturo-lang/arturo/releases/download/v0.10.0/arturo-0.10.0-windows-amd64.zip) | 9.9 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **15** distros on [repology.org](https://repology.org/project/arturo). **11** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.10.0` | ✅ latest |
+| Alpine edge | `0.10.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for arturo lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `arturo` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +93,4 @@ Install metadata for arturo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:52:32Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:58:54Z._
