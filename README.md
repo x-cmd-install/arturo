@@ -14,12 +14,12 @@ x install arturo
 
 ## Code insight
 
-Total: **40,728** lines of code across **189** files in the top 5 languages.
+Total: **40,731** lines of code across **189** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Nim | 35,614 | 5,725 | 5,971 | 111 |
-| ReScript | 4,782 | 0 | 1,238 | 68 |
+| ReScript | 4,785 | 0 | 1,239 | 68 |
 | Sh | 212 | 27 | 56 | 7 |
 | JavaScript | 81 | 33 | 14 | 2 |
 | Html | 35 | 0 | 0 | 1 |
@@ -33,7 +33,7 @@ Total: **40,728** lines of code across **189** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.0` (2026-01-15)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-05
 - **Assets in release**: 15
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **40,728** lines of code across **189** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 737 · **Open PRs**: 10 · **Closed issues**: 1092 · **Open issues**: 347 · **Commits**: 37558
+- **Releases**: 26 · **Merged PRs**: 738 · **Open PRs**: 17 · **Closed issues**: 1093 · **Open issues**: 346 · **Commits**: 37565
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 14 | 1 | 4 | 2 | 42 |
-| last60d | 2026-09-06 | 0 | 16 | 1 | 4 | 2 | 46 |
-| 90d | 2026-08-07 | 0 | 16 | 1 | 4 | 2 | 46 |
-| last180d | 2026-05-09 | 0 | 20 | 1 | 5 | 3 | 205 |
-| 360d | 2025-11-10 | 1 | 110 | 6 | 63 | 51 | 2584 |
-| last720d | 2024-11-15 | 1 | 211 | 6 | 124 | 96 | 3312 |
+| 30d | 2026-10-07 | 0 | 15 | 8 | 4 | 2 | 49 |
+| last60d | 2026-09-07 | 0 | 17 | 8 | 4 | 2 | 53 |
+| 90d | 2026-08-08 | 0 | 17 | 8 | 4 | 2 | 53 |
+| last180d | 2026-05-10 | 0 | 21 | 8 | 5 | 3 | 212 |
+| 360d | 2025-11-11 | 1 | 111 | 13 | 63 | 51 | 2591 |
+| last720d | 2024-11-16 | 1 | 210 | 13 | 124 | 96 | 3319 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for arturo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:56:03Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T08:18:01Z._
