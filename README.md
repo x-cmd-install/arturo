@@ -42,18 +42,18 @@ Total: **41,037** lines of code across **196** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 752 · **Open PRs**: 10 · **Closed issues**: 1098 · **Open issues**: 341 · **Commits**: 37710
+- **Releases**: 26 · **Merged PRs**: 752 · **Open PRs**: 11 · **Closed issues**: 1098 · **Open issues**: 341 · **Commits**: 37710
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 29 | 1 | 4 | 2 | 194 |
-| last60d | 2026-09-09 | 0 | 31 | 1 | 4 | 2 | 194 |
-| 90d | 2026-08-10 | 0 | 31 | 1 | 4 | 2 | 198 |
-| last180d | 2026-05-12 | 0 | 35 | 1 | 5 | 3 | 352 |
-| 360d | 2025-11-13 | 1 | 124 | 6 | 60 | 48 | 2294 |
-| last720d | 2024-11-18 | 1 | 224 | 6 | 124 | 96 | 3462 |
+| 30d | 2026-10-11 | 0 | 29 | 2 | 4 | 2 | 194 |
+| last60d | 2026-09-11 | 0 | 29 | 2 | 4 | 2 | 194 |
+| 90d | 2026-08-12 | 0 | 31 | 2 | 4 | 2 | 198 |
+| last180d | 2026-05-14 | 0 | 35 | 2 | 5 | 3 | 352 |
+| 360d | 2025-11-15 | 1 | 121 | 7 | 59 | 47 | 2294 |
+| last720d | 2024-11-20 | 1 | 224 | 7 | 124 | 95 | 3462 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for arturo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:11:47Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:48:22Z._
