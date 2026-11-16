@@ -48,12 +48,12 @@ Total: **41,601** lines of code across **197** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 41 | 1 | 5 | 39 | 411 |
-| last60d | 2026-09-16 | 0 | 41 | 1 | 5 | 39 | 427 |
-| 90d | 2026-08-17 | 0 | 43 | 1 | 5 | 39 | 431 |
-| last180d | 2026-05-19 | 0 | 47 | 1 | 6 | 40 | 523 |
-| 360d | 2025-11-20 | 1 | 125 | 6 | 64 | 79 | 2320 |
-| last720d | 2024-11-25 | 1 | 233 | 6 | 130 | 124 | 3656 |
+| 30d | 2026-10-17 | 0 | 41 | 1 | 5 | 39 | 411 |
+| last60d | 2026-09-17 | 0 | 41 | 1 | 5 | 39 | 427 |
+| 90d | 2026-08-18 | 0 | 43 | 1 | 5 | 39 | 431 |
+| last180d | 2026-05-20 | 0 | 47 | 1 | 6 | 40 | 523 |
+| 360d | 2025-11-21 | 1 | 124 | 6 | 63 | 78 | 2320 |
+| last720d | 2024-11-26 | 1 | 233 | 6 | 130 | 124 | 3650 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for arturo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:55:12Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:37:35Z._
