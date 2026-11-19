@@ -165,7 +165,7 @@
   binname: mingw-w64-ucrt-x86_64-arturo
   visiblename: mingw-w64-ucrt-x86_64-arturo
   version: 0.10.0
-  origversion: 0.10.0-5
+  origversion: 0.10.0-7
   status: newest
   summary: Simple, expressive & portable programming language for efficient scripting. (mingw-w64)
   licenses:
