@@ -14,11 +14,11 @@ x install arturo
 
 ## Code insight
 
-Total: **42,092** lines of code across **207** files in the top 5 languages.
+Total: **42,365** lines of code across **208** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Nim | 36,547 | 5,990 | 6,155 | 113 |
+| Nim | 36,820 | 6,057 | 6,207 | 114 |
 | ReScript | 5,154 | 0 | 1,355 | 83 |
 | Sh | 212 | 27 | 56 | 7 |
 | JavaScript | 140 | 59 | 23 | 3 |
@@ -38,22 +38,22 @@ Total: **42,092** lines of code across **207** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 894 · **Forks**: 39 · **Open issues**: 1,615 · **Contributors**: 20
+- **Stars**: 893 · **Forks**: 39 · **Open issues**: 1,772 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 790 · **Open PRs**: 9 · **Closed issues**: 1186 · **Open issues**: 429 · **Commits**: 38087
+- **Releases**: 26 · **Merged PRs**: 806 · **Open PRs**: 9 · **Closed issues**: 1289 · **Open issues**: 483 · **Commits**: 38161
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 67 | 2 | 63 | 119 | 522 |
-| last60d | 2026-09-20 | 0 | 67 | 2 | 63 | 119 | 538 |
-| 90d | 2026-08-21 | 0 | 69 | 2 | 63 | 119 | 542 |
-| last180d | 2026-05-23 | 0 | 70 | 2 | 64 | 120 | 634 |
-| 360d | 2025-11-24 | 1 | 149 | 7 | 124 | 154 | 2431 |
-| last720d | 2024-11-29 | 1 | 259 | 7 | 193 | 199 | 3793 |
+| 30d | 2026-10-21 | 0 | 82 | 3 | 160 | 179 | 596 |
+| last60d | 2026-09-21 | 0 | 83 | 3 | 160 | 179 | 612 |
+| 90d | 2026-08-22 | 0 | 85 | 3 | 160 | 179 | 616 |
+| last180d | 2026-05-24 | 0 | 86 | 3 | 161 | 180 | 708 |
+| 360d | 2025-11-25 | 1 | 163 | 7 | 220 | 214 | 2505 |
+| last720d | 2024-11-30 | 1 | 275 | 7 | 290 | 259 | 3867 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for arturo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T10:19:34Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:49:57Z._
