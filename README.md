@@ -14,11 +14,11 @@ x install arturo
 
 ## Code insight
 
-Total: **42,398** lines of code across **208** files in the top 5 languages.
+Total: **42,400** lines of code across **208** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Nim | 36,844 | 6,057 | 6,213 | 114 |
+| Nim | 36,846 | 6,058 | 6,213 | 114 |
 | ReScript | 5,163 | 0 | 1,355 | 83 |
 | Sh | 212 | 27 | 56 | 7 |
 | JavaScript | 140 | 59 | 23 | 3 |
@@ -33,27 +33,27 @@ Total: **42,398** lines of code across **208** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.0` (2026-01-15)
-- **Last commit**: 2026-11-21
+- **Last commit**: 2026-11-23
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 895 · **Forks**: 39 · **Open issues**: 1,774 · **Contributors**: 20
+- **Stars**: 894 · **Forks**: 39 · **Open issues**: 1,777 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 818 · **Open PRs**: 9 · **Closed issues**: 1307 · **Open issues**: 467 · **Commits**: 38223
+- **Releases**: 26 · **Merged PRs**: 819 · **Open PRs**: 9 · **Closed issues**: 1310 · **Open issues**: 467 · **Commits**: 38250
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 92 | 3 | 174 | 167 | 658 |
-| last60d | 2026-09-24 | 0 | 95 | 3 | 174 | 167 | 674 |
-| 90d | 2026-08-25 | 0 | 97 | 3 | 174 | 167 | 678 |
-| last180d | 2026-05-27 | 0 | 98 | 3 | 175 | 168 | 680 |
-| 360d | 2025-11-28 | 1 | 173 | 7 | 233 | 202 | 2392 |
-| last720d | 2024-12-03 | 1 | 286 | 7 | 304 | 246 | 3927 |
+| 30d | 2026-10-25 | 0 | 93 | 3 | 177 | 167 | 685 |
+| last60d | 2026-09-25 | 0 | 96 | 3 | 177 | 167 | 701 |
+| 90d | 2026-08-26 | 0 | 98 | 3 | 177 | 167 | 705 |
+| last180d | 2026-05-28 | 0 | 98 | 3 | 178 | 167 | 707 |
+| 360d | 2025-11-29 | 1 | 174 | 7 | 236 | 202 | 2419 |
+| last720d | 2024-12-04 | 1 | 287 | 7 | 307 | 246 | 3954 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for arturo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:15:10Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:54:36Z._
