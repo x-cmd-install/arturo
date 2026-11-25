@@ -48,12 +48,12 @@ Total: **42,400** lines of code across **208** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 93 | 3 | 177 | 167 | 685 |
-| last60d | 2026-09-25 | 0 | 96 | 3 | 177 | 167 | 701 |
-| 90d | 2026-08-26 | 0 | 98 | 3 | 177 | 167 | 705 |
-| last180d | 2026-05-28 | 0 | 98 | 3 | 178 | 167 | 707 |
-| 360d | 2025-11-29 | 1 | 174 | 7 | 236 | 202 | 2419 |
-| last720d | 2024-12-04 | 1 | 287 | 7 | 307 | 246 | 3954 |
+| 30d | 2026-10-26 | 0 | 93 | 3 | 177 | 167 | 685 |
+| last60d | 2026-09-26 | 0 | 96 | 3 | 177 | 167 | 701 |
+| 90d | 2026-08-27 | 0 | 98 | 3 | 177 | 167 | 705 |
+| last180d | 2026-05-29 | 0 | 98 | 3 | 178 | 167 | 707 |
+| 360d | 2025-11-30 | 1 | 174 | 7 | 236 | 202 | 2419 |
+| last720d | 2024-12-05 | 1 | 286 | 7 | 307 | 244 | 3954 |
 
 ## Release assets
 
@@ -75,15 +75,6 @@ Total: **42,400** lines of code across **208** files in the top 5 languages.
 | [arturo-0.10.0-windows-amd64-mini.zip](https://github.com/arturo-lang/arturo/releases/download/v0.10.0/arturo-0.10.0-windows-amd64-mini.zip) | 2.3 MiB | `native/win/x64` |
 | [arturo-0.10.0-windows-amd64.zip](https://github.com/arturo-lang/arturo/releases/download/v0.10.0/arturo-0.10.0-windows-amd64.zip) | 9.9 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **15** distros on [repology.org](https://repology.org/project/arturo). **11** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.10.0` | ✅ latest |
-| Alpine edge | `0.10.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for arturo lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `arturo` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -93,4 +84,4 @@ Install metadata for arturo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:54:36Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:01:06Z._
