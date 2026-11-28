@@ -1,0 +1,144 @@
+about:
+  description: "Simple, expressive & portable programming language for efficient scripting"
+  license: MIT
+  homepage: http://arturo-lang.io
+  head: bb10b6b
+  archived: false
+  latestVersion: "v0.10.0"
+  latestRelease: "v0.10.0"
+  latestPrerelease: "v0.9.82-pre2"
+  collectedAt: 2026-11-28T09:26:54Z
+timeline:
+  created: 2019-09-22
+  lastCommit: 2026-11-27
+  lastVersion: 2026-01-15
+  lastRelease: 2026-01-15
+  lastPrerelease: 2023-02-08
+popularity:
+  star: 894
+  watcher: 19
+  fork: 39
+  release: 26
+  contributor: 20
+  pullRequest: 901
+  issue: 1778
+language:
+  C: 8624062
+  Nim: 2689895
+  C++: 991109
+  Batchfile: 10772
+  Shell: 7834
+  JavaScript: 7202
+  Objective-C: 6627
+  Roff: 3926
+  HTML: 1561
+  ReScript: 121
+totalBytes: 12343109
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 0
+    mergedPR: 110
+    openPR: 3
+    closedIssue: 177
+    openIssue: 168
+    commit: 827
+  last60d:
+    since: 2026-09-29
+    release: 0
+    mergedPR: 113
+    openPR: 3
+    closedIssue: 177
+    openIssue: 168
+    commit: 843
+  last90d:
+    since: 2026-08-30
+    release: 0
+    mergedPR: 115
+    openPR: 3
+    closedIssue: 177
+    openIssue: 168
+    commit: 847
+  last180d:
+    since: 2026-06-01
+    release: 0
+    mergedPR: 115
+    openPR: 3
+    closedIssue: 178
+    openIssue: 168
+    commit: 849
+  last360d:
+    since: 2025-12-03
+    release: 1
+    mergedPR: 191
+    openPR: 7
+    closedIssue: 234
+    openIssue: 203
+    commit: 2561
+  last720d:
+    since: 2024-12-08
+    release: 1
+    mergedPR: 302
+    openPR: 7
+    closedIssue: 307
+    openIssue: 245
+    commit: 4058
+total:
+  release: 26
+  mergedPR: 836
+  openPR: 9
+  closedIssue: 1310
+  openIssue: 468
+  commit: 38395
+---
+path: /home/runner/.x-repo/github.com/arturo-lang/arturo
+collectedAt: 2026-11-28T09:27:04Z
+loc:
+  Nim:
+    code: 37155
+    comments: 6176
+    blanks: 6274
+    files: 114
+  ReScript:
+    code: 5196
+    comments: 0
+    blanks: 1362
+    files: 84
+  Sh:
+    code: 212
+    comments: 27
+    blanks: 56
+    files: 7
+  JavaScript:
+    code: 140
+    comments: 59
+    blanks: 23
+    files: 3
+  Html:
+    code: 35
+    comments: 0
+    blanks: 0
+    files: 1
+  ModuleDef:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 500
+    blanks: 214
+    files: 6
+  Text:
+    code: 0
+    comments: 6
+    blanks: 0
+    files: 6
+total:
+  code: 42768
+  comments: 6769
+  blanks: 7929
+  files: 222
+---
+
+---
