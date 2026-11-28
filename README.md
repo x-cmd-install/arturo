@@ -14,12 +14,12 @@ x install arturo
 
 ## Code insight
 
-Total: **42,693** lines of code across **208** files in the top 5 languages.
+Total: **42,742** lines of code across **209** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Nim | 37,128 | 6,156 | 6,269 | 114 |
-| ReScript | 5,174 | 0 | 1,355 | 83 |
+| Nim | 37,155 | 6,176 | 6,274 | 114 |
+| ReScript | 5,196 | 0 | 1,362 | 84 |
 | Sh | 212 | 27 | 56 | 7 |
 | JavaScript | 140 | 59 | 23 | 3 |
 | Html | 35 | 0 | 0 | 1 |
@@ -42,18 +42,18 @@ Total: **42,693** lines of code across **208** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 828 · **Open PRs**: 11 · **Closed issues**: 1310 · **Open issues**: 468 · **Commits**: 38325
+- **Releases**: 26 · **Merged PRs**: 836 · **Open PRs**: 9 · **Closed issues**: 1310 · **Open issues**: 468 · **Commits**: 38395
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 102 | 5 | 177 | 168 | 760 |
-| last60d | 2026-09-28 | 0 | 105 | 5 | 177 | 168 | 776 |
-| 90d | 2026-08-29 | 0 | 107 | 5 | 177 | 168 | 780 |
-| last180d | 2026-05-31 | 0 | 107 | 5 | 178 | 168 | 782 |
-| 360d | 2025-12-02 | 1 | 183 | 9 | 234 | 203 | 2494 |
-| last720d | 2024-12-07 | 1 | 294 | 9 | 307 | 245 | 4022 |
+| 30d | 2026-10-29 | 0 | 110 | 3 | 177 | 168 | 827 |
+| last60d | 2026-09-29 | 0 | 113 | 3 | 177 | 168 | 843 |
+| 90d | 2026-08-30 | 0 | 115 | 3 | 177 | 168 | 847 |
+| last180d | 2026-06-01 | 0 | 115 | 3 | 178 | 168 | 849 |
+| 360d | 2025-12-03 | 1 | 191 | 7 | 234 | 203 | 2561 |
+| last720d | 2024-12-08 | 1 | 302 | 7 | 307 | 245 | 4058 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for arturo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T10:26:18Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:27:24Z._
